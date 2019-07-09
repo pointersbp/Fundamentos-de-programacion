@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559824861 source:c:\users\pointer\desktop\codeblocks\animales\animales.c
+	<stdlib.h>
+	"Animales.h"
+
+1559824794 c:\users\pointer\desktop\codeblocks\animales\animales.h
+	<stdlib.h>
+

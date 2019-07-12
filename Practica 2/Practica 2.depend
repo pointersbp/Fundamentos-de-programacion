@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1562875424 source:c:\users\pointer\desktop\codeblocks\practica 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lista.h"
+
+1562875473 c:\users\pointer\desktop\codeblocks\practica 2\lista.h
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1286690350 source:c:\users\pointer\desktop\codeblocks\pelicula\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1286690424 c:\users\pointer\desktop\codeblocks\pelicula\conio.h
+	<stdio.h>
+
+1562850489 source:c:\users\pointer\desktop\codeblocks\pelicula\listadoblecircular.c
+	<stdlib.h>
+	"ListaDobleCircular.h"
+
+1562850480 c:\users\pointer\desktop\codeblocks\pelicula\listadoblecircular.h
+	<stdlib.h>
+
+1562846886 source:c:\users\pointer\desktop\codeblocks\pelicula\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"conio.h"
+	<conio.h>
+	"ListaDobleCircular.h"
+
+1286690350 c:\users\pointer\desktop\codeblocks\pelicula\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
